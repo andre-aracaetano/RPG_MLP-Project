@@ -8,9 +8,9 @@ Repositório referente ao trabalho da disciplina de Redes Neurais e Algoritmos G
 
 # Dataset
 
-Como citado acima cada coluna do dataset "Civil Engineering: Cement Manufacturing Dataset" é um dado da composição do concreto, tempo de preparo e força suportada.
+Como citado acima cada coluna do dataset **"Civil Engineering: Cement Manufacturing Dataset"** é um dado da composição do concreto, tempo de preparo e força suportada.
 
-As o significado das colunas é:
+O significado das colunas é:
 
 - **Cimento:** É o aglomerante principal do concreto, responsável por unir os materiais. Medido em quilogramas por metro cúbico de mistura.
 
@@ -29,3 +29,5 @@ As o significado das colunas é:
 - **Idade:** Tempo em dias desde a mistura do concreto. Varia de 1 a 365 dias.
 
 - **Resistência à compressão do concreto:** Medida em Megapascal (MPa), indica a capacidade do concreto de suportar cargas de compressão.
+
+# Rede Neural
