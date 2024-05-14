@@ -6,7 +6,7 @@ Repositório referente ao trabalho da disciplina de Redes Neurais e Algoritmos G
 
  Para realizar essa tarefa utilizamos o Jupyter lab, Redes Neurais Pytorch e um dataset focado na composição do concreto.
 
-1. Dataset
+1 - Dataset
 
 Como citado acima cada coluna do dataset "Civil Engineering: Cement Manufacturing Dataset" é um dado da composição do concreto, tempo de preparo e força suportada. As colunas são:
 
