@@ -1,8 +1,8 @@
 # RPG_MLP-Project
 Repositório referente ao trabalho da disciplina de Redes Neurais e Algoritmos Genéticos ministrada pelo professor Daniel Cassar.
 
-O objetivo do notebook codado em python é o seguinte:
- -Identique e otimize os hiperparâmetros de uma rede neural do tipo MLP para resolver um problema de regressão de interesse cientíco.Espera-se o uso de boas práticas em ciências de dados assim como já apresentado em disciplinas anteriores.Teste ao menos 100 diferentes arquiteturas de rede durante sua otimização de hiperparâmetros. Os dados para treinar o modelo devem ser dados tabulados de interesse cientíco, não podem ser séries temporais e precisam ser aprovados pelo professor.
+**O objetivo do notebook codado em python é o seguinte:
+ -Identique e otimize os hiperparâmetros de uma rede neural do tipo MLP para resolver um problema de regressão de interesse cientíco.Espera-se o uso de boas práticas em ciências de dados assim como já apresentado em disciplinas anteriores.Teste ao menos 100 diferentes arquiteturas de rede durante sua otimização de hiperparâmetros. Os dados para treinar o modelo devem ser dados tabulados de interesse cientíco, não podem ser séries temporais e precisam ser aprovados pelo professor.**
 
  Para realizar essa tarefa utilizamos o Jupyter lab, Redes Neurais Pytorch e um dataset focado na composição do concreto.
 
