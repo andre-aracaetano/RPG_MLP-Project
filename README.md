@@ -8,7 +8,8 @@ Repositório referente ao trabalho da disciplina de Redes Neurais e Algoritmos G
 
 # Dataset
 
-Como citado acima cada coluna do dataset "Civil Engineering: Cement Manufacturing Dataset" é um dado da composição do concreto, tempo de preparo e força suportada. As colunas são:
+Como citado acima cada coluna do dataset "Civil Engineering: Cement Manufacturing Dataset" é um dado da composição do concreto, tempo de preparo e força suportada.
+As colunas são:
 
 - **Cimento:** É o aglomerante principal do concreto, responsável por unir os materiais. Medido em quilogramas por metro cúbico de mistura.
 
