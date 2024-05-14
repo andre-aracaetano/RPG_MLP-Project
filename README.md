@@ -8,7 +8,7 @@ Repositório referente ao trabalho da disciplina de Redes Neurais e Algoritmos G
 
 # Dataset
 
-Como citado acima cada coluna do dataset **"Civil Engineering: Cement Manufacturing Dataset"** é um dado da composição do concreto, tempo de preparo e força suportada.
+Como citado acima cada coluna do dataset **"Civil Engineering: Cement Manufacturing Dataset"** é um dado que contem a composição do concreto, tempo de preparo e força suportada.
 
 O significado das colunas é:
 
