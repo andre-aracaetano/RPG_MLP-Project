@@ -26,6 +26,6 @@ As o significado das colunas é:
 
 - **Agregado miúdo:** Areia ou pó de pedra que preenche os vazios entre os agregados graúdos, melhorando a trabalhabilidade. Medido em quilogramas por metro cúbico de mistura.
 
-- **Idade:** Tempo em dias desde a mistura do concreto.
+- **Idade:** Tempo em dias desde a mistura do concreto. Varia de 1 a 365 dias.
 
 - **Resistência à compressão do concreto:** Medida em Megapascal (MPa), indica a capacidade do concreto de suportar cargas de compressão.
