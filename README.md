@@ -1,5 +1,5 @@
 # RPG_MLP-Project
-Repositório referente ao trabalho da disciplina de Redes Neurais e Algoritmos Genéticos ministrada pelo professor Daniel Cassar.
+Repositório referente ao trabalho da disciplina de Redes Neurais e Algoritmos Genéticos ministrada pelo professor Daniel Roberto Cassar, da ilum - Escola de Ciência.
 
 **O objetivo do notebook codado em Python é o seguinte:**
 - Identifique e otimize os hiperparâmetros de uma rede neural do tipo MLP para resolver um problema de regressão de interesse científico. Espera-se o uso de boas práticas em ciências de dados assim como já apresentado em disciplinas anteriores. Teste ao menos 100 diferentes arquiteturas de rede durante sua otimização de hiperparâmetros. Os dados para treinar o modelo devem ser dados tabulados de interesse científico, não podem ser séries temporais e precisam ser aprovados pelo professor.
@@ -295,6 +295,6 @@ A análise dos resultados sugere que a escolha dos hiperparâmetros impactou de 
 8. [K-Fold Cross-Validation with PyTorch](https://github.com/christianversloot/machine-learning-articles/blob/main/how-to-use-k-fold-cross-validation-with-pytorch.md)
 9. Chat GPT para correção de erros simples
 
+
 ---
 
-Este README foi atualizado para refletir a versão final do código fornecido, incluindo todos os detalhes e ajustes necessários.
