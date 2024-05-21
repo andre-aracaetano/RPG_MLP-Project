@@ -176,9 +176,7 @@ O código utiliza uma rede neural do tipo Multi-Layer Perceptron (MLP) implement
     print("\nMédia do RMSE para cada função de ativação:")
     print(mean_rmse_activation)
 
-    mean_rmse_layers =
-
- results_df.groupby('Layers number')['RMSE'].mean()
+    mean_rmse_layers = results_df.groupby('Layers number')['RMSE'].mean()
     print("\nMédia do RMSE para cada número de camadas:")
     print(mean_rmse_layers)
 
