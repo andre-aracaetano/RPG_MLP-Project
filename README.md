@@ -294,7 +294,7 @@ A análise dos resultados sugere que a escolha dos hiperparâmetros impactou de 
 7. [Dropout in PyTorch](https://pytorch.org/docs/stable/generated/torch.nn.Dropout.html)
 8. [K-Fold Cross-Validation with PyTorch](https://github.com/christianversloot/machine-learning-articles/blob/main/how-to-use-k-fold-cross-validation-with-pytorch.md)
 9. Chat GPT para correção de erros simples
-
+10. Materiais de aula, particulares da instituição "ilum - Escola de Ciência", fornecidos pelo professor, foram a base para o estudo de redes neurais e para a riação da rede.
 
 ---
 
