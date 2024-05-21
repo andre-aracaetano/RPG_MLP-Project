@@ -4,7 +4,7 @@ Repositório referente ao trabalho da disciplina de Redes Neurais e Algoritmos G
 **O objetivo do notebook codado em Python é o seguinte:**
 - Identifique e otimize os hiperparâmetros de uma rede neural do tipo MLP para resolver um problema de regressão de interesse científico. Espera-se o uso de boas práticas em ciências de dados assim como já apresentado em disciplinas anteriores. Teste ao menos 100 diferentes arquiteturas de rede durante sua otimização de hiperparâmetros. Os dados para treinar o modelo devem ser dados tabulados de interesse científico, não podem ser séries temporais e precisam ser aprovados pelo professor.
 
-Para realizar essa tarefa utilizamos o Jupyter Lab, Redes Neurais PyTorch e um dataset focado na composição do concreto. O trabalho final está em um documento chamado **TrabalhoFinal(HPC).ipynb**, foi rodado no HPC da Ilum Escola de Ciência, usando 10 núcleos de processamento e rodou em menos de 1 hora. A versão do Pandas utilizada foi a 1.5.1, necessária para evitar um erro na criação do dataset final com as arquiteturas de rede.
+Para realizar essa tarefa utilizamos o Jupyter Lab, Redes Neurais PyTorch e um dataset focado na composição do concreto. O trabalho final está em um documento chamado **Trabalho_Final_HPC.ipynb**, foi rodado no HPC da Ilum Escola de Ciência, usando 10 núcleos de processamento e rodou em menos de 1 hora. A versão do Pandas utilizada foi a 1.5.1, necessária para evitar um erro na criação do dataset final com as arquiteturas de rede.
 
 ## Dataset
 
