@@ -296,6 +296,6 @@ A análise dos resultados sugere que a escolha dos hiperparâmetros impactou de 
 9. Chat GPT para correção de erros simples
 10. Materiais de aula, particulares da instituição "ilum - Escola de Ciência", fornecidos pelo professor, foram a base para o estudo de redes neurais e para a riação da rede.
 11. [Dataset](https://www.kaggle.com/datasets/vinayakshanawad/cement-manufacturing-concrete-dataset)
-
+12. [Multilayer MLP](https://stackoverflow.com/questions/62937388/pytorch-dynamic-amount-of-layers)
 ---
 
