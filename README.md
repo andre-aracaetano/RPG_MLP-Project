@@ -289,8 +289,8 @@ A análise dos resultados sugere que a escolha dos hiperparâmetros impactou de 
 2. [Inspiration for Model Evaluation](https://gist.github.com/GeorgeSeif/07a7707976a163cfaa94218db45a0046)
 3. [Inspiration for Fixing a Recurring Error](https://stackoverflow.com/questions/62726792/pytorch-runtimeerror-expected-dtype-float-but-got-dtype-long)
 4. [K-Fold Cross-Validation in Neural Networks](https://www.baeldung.com/cs/k-fold-cross-validation)
-5. [General Error Fixing When Plotting Excel](https://stackoverflow.com/questions/71470352/ufunctypeerror-cannot-cast-ufunc-det-input-from-dtypeo-to-dtypefloat64)
-6. [General Error Fixing When Plotting Excel](https://stackoverflow.com/questions/55290596/solving-slurm-sbatch-error-batch-job-submission-failed-requested-node-config)
+5. [General Error Fixing When Plotting Excel_1](https://stackoverflow.com/questions/71470352/ufunctypeerror-cannot-cast-ufunc-det-input-from-dtypeo-to-dtypefloat64)
+6. [General Error Fixing When Plotting Excel_2](https://stackoverflow.com/questions/55290596/solving-slurm-sbatch-error-batch-job-submission-failed-requested-node-config)
 7. [Dropout in PyTorch](https://pytorch.org/docs/stable/generated/torch.nn.Dropout.html)
 8. [K-Fold Cross-Validation with PyTorch](https://github.com/christianversloot/machine-learning-articles/blob/main/how-to-use-k-fold-cross-validation-with-pytorch.md)
 9. Chat GPT para correção de erros simples
